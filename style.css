@@ -1,4 +1,10 @@
 /* Navigation bar ------------------------------------------------------------------------ */
+*{
+    scroll-behaviour:smooth;
+}
+
+
+
 .navbar{
     background-color: #003E59;
 }
