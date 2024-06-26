@@ -320,7 +320,7 @@ footer{
     padding-top: 70px;
 }
 a,.xyug{
-text-decoration: none;
+text-decoration: none !important;
 color: #FFFFFF;
 font-family: Lora;
 font-size: 14px;
@@ -332,9 +332,6 @@ line-height: 17.92px;
     padding-bottom: 34px;
 }
 
-a{
-    text-decoration: none;
-}
 
 
 @media  (max-width:320px){
