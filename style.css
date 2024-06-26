@@ -327,6 +327,10 @@ font-size: 14px;
 font-weight: 400;
 line-height: 17.92px;
 }
+a{
+    text-decoration: none;
+}
+
 
 .footer_space_bottom{
     padding-bottom: 34px;
