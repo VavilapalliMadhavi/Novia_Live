@@ -328,7 +328,7 @@ font-weight: 400;
 line-height: 17.92px;
 }
 .text{
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 
