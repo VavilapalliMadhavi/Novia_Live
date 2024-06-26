@@ -320,16 +320,14 @@ footer{
     padding-top: 70px;
 }
 a,.xyug{
-text-decoration: none;
+text-decoration: none !important;
 color: #FFFFFF;
 font-family: Lora;
 font-size: 14px;
 font-weight: 400;
 line-height: 17.92px;
 }
-a{
-   text-decoration: none;
-}
+
 .footer_space_bottom{
     padding-bottom: 34px;
 }
