@@ -333,7 +333,8 @@ line-height: 17.92px;
 }
 
 a{
-    text-decoration: None}
+    text-decoration: none;
+}
 
 
 @media  (max-width:320px){
